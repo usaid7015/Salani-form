@@ -1,0 +1,33 @@
+*{
+    margin: 0em;
+    padding: 0em;
+}
+
+body{
+    padding-top: 5em;
+}
+
+img{
+    max-width: 20%;
+    padding: 10px;
+}
+
+h1{
+    color: #2BA02D;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    color: rgb(100, 13, 175);
+    padding: 25px 20px;
+    font-size: 1.8em;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #5E048A;
+    font-weight: 600;
+}

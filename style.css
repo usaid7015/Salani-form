@@ -1,0 +1,55 @@
+*{
+    margin: 0em;
+    padding: 0em;
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.logo h1{
+    text-transform: uppercase;
+    font-family: monospace;
+    text-decoration: underline;
+    color: #6B5ACD;
+    font-size: 2em;
+    padding: 10px;
+}
+
+td{
+    padding-left: 20px;
+}
+
+.td{
+    padding-bottom: 15px;
+
+}
+
+input{
+    padding: 5px 5px;
+}
+
+.table{
+    background-color: #6B5ACD;
+    padding: 20px 0px;
+    margin: 0px 20px;
+    border: 1px solid black;
+    color: white;
+}
+
+.center{
+    text-align: center;
+}
+
+.left{
+    padding-right: 3em;
+}
+
+.right{
+    padding-right: 2em;
+}
+
+button{
+    padding: 8px 20px;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+}
